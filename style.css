@@ -17,6 +17,7 @@ body {
   flex-direction: row;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  background-image: url('./Assets/TOL-BG.jpg');
 }
 
 .TOL-container .cards {
